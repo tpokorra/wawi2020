@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class WawiConfig(AppConfig):
-    name = 'wawi'
+class FrontendConfig(AppConfig):
+    name = 'frontend'
